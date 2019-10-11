@@ -37,4 +37,4 @@
 * Logo em seguida, selecione a opção executar e o jogo começará.
 
 ### Contribuições
-- Contribuições e possíveis melhorias no meu ponto de vista são sempre bem-vindas.
+- Contribuições e possíveis melhorias, no meu ponto de vista são sempre bem-vindas.
